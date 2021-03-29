@@ -9,7 +9,7 @@ var foodObj;
 function preload()
 {
   //load images here
-  happydogimg = loadImage("dogImg.png");
+  happydogimg = loadImage("Newfolder/dogImg.png");
   dogimg= loadImage("dogImg1.png");
 }
 
